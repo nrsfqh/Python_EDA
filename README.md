@@ -8,4 +8,6 @@ The purpose of this repository is to showcase some of the exploratory data analy
 
   - Dataset source: <a href="https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset?datasetId=2260653&sortBy=dateRun&tab=profile"> Kaggle </a> 
  
-  - Aim: Analyze and gain insights from sales data of a grocery store. 
+  - Aim: Analyze and gain insights from sales data of a grocery store.
+
+  - Libraries: Pandas, NumPy, Matplotlib, Seaborn
