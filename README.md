@@ -11,3 +11,12 @@ The purpose of this repository is to showcase some of the exploratory data analy
   - Aim: Analyze and gain insights from sales data of a grocery store.
 
   - Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+
+<h3> 2. <a href="https://github.com/nrsfqh/Python_EDA/blob/main/Google_Playstore_EDA_2023.ipynb"> Google Playstore EDA </a> </h3>
+
+  - Dataset source: <a href="https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps"> Kaggle </a> 
+ 
+  - Aim: Analyze and gain insights regarding Google Playstore Applications.
+
+  - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Regular Expressions, Tabulate
